@@ -1,7 +1,7 @@
 import sys
 
 
-sys.argv = ["the best one of my"]
+sys.argv = ["initiation"]
 
 
 if len(sys.argv) > 0:
